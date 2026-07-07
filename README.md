@@ -79,18 +79,10 @@ Play against the computer by choosing one of the available difficulty levels.
 
 ## Screenshots
 
-- Home Screen
-- Human vs Human
-- Human vs Computer
-- Winning Game
-- Draw Game
-| Main Menu | Human vs Human |
-|------------|----------------|
-| ![Main Menu](screenshort\Screenshot 2026-07-07 194104.png) | ![Human vs Human](screenshort\Screenshot 2026-07-07 194127.png) |
-
-| Human vs Computer | Winner Highlight |
-|-------------------|------------------|
-| ![Human vs Computer](screenshort\Screenshot 2026-07-07 194148.png) | ![Winner](screenshort\Screenshot 2026-07-07 194212.png) |
+| | |
+|:-:|:-:|
+| ![](screenshots/1.png) | ![](screenshots/2.png) |
+| ![](screenshots/3.png) | ![](screenshots/4.png) |
 
 ---
 
