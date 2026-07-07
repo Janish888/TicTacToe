@@ -47,16 +47,28 @@ src
 
 ## How to Run
 
-Clone the repository:
+### Option 1 – Download the Application (Recommended)
+
+If you just want to play the game:
+
+1. Open the **Releases** section of this repository.
+2. Download the latest **TicTacToe.zip** file.
+3. Extract the ZIP file.
+4. Open the extracted folder and double-click **TicTacToe.exe**.
+
+No additional Java installation is required.
+
+### Option 2 – Run from Source
+
+If you'd like to build and run the project yourself:
 
 ```bash
-git clone https://github.com/your-username/TicTacToeAI.git
+git clone https://github.com/Janish888/TicTacToe.git
+cd TicTacToe
+mvn clean javafx:run
 ```
 
-Open the project and run:
-
-```bash
-mvn clean javafx:run
+Make sure you have **Java 21** and **Maven** installed before running the project.
 ```
 
 ---
