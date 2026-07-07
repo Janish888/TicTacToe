@@ -69,7 +69,6 @@ mvn clean javafx:run
 ```
 
 Make sure you have **Java 21** and **Maven** installed before running the project.
-```
 
 ---
 
