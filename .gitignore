@@ -1,3 +1,5 @@
 target/
 .vscode/
 Thumbs.db
+TicTacToeAI/
+*.exe

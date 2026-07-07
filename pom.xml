@@ -53,6 +53,24 @@
                 </configuration>
             </plugin>
 
+            <plugin>
+                <groupId>org.panteleyev</groupId>
+                <artifactId>jpackage-maven-plugin</artifactId>
+                <version>1.7.5</version>
+            
+                <configuration>
+                    <name>TicTacToeAI</name>
+                    <appVersion>1.0</appVersion>
+                    <vendor>Janish J</vendor>
+            
+                    <input>${project.build.directory}</input>
+                    <mainJar>${project.build.finalName}.jar</mainJar>
+                    <mainClass>com.janish.tictactoe.Main</mainClass>
+            
+                <type>app-image</type>
+                </configuration>
+            </plugin>
+
         </plugins>
     </build>
 
